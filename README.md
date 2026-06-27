@@ -22,3 +22,5 @@ O script completo e totalmente documentado com comentários informativos linha p
 
 ## Resultados Obtidos
 Abaixo está o registo visual do resultado gerado pela consulta executada com absoluto sucesso no ambiente SQL Server Express, trazendo a tabela perfeitamente estruturada:
+
+![Resultado das Queries](./Capturar.PNG)
